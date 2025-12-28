@@ -18,3 +18,5 @@ public:
        return count;
     }
 };
+
+//can be uesd brute force but not helpful for big datastructure so using hashmap makes it was easier and faster so the code is optimised 
